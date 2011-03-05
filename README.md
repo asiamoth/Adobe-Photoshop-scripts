@@ -6,3 +6,6 @@
 
 ## 各ファイルの説明
 
+* <a href="https://github.com/asiamoth/Adobe-Photoshop-scripts/blob/master/save_tiff.jsx" title="save_tiff.jsx at master from asiamoth/Adobe-Photoshop-scripts - GitHub">save_tiff.jsx</a>
+    * 圧縮オプションを有効に TIFF で画像を保存する（だけ！）
+    * 説明: <a href="http://asiamoth.com/mt/archives/2011-02/26_2353.php" title="Photoshop の「スクリプト」で PSD ファイルを TIFF に圧縮保存する : 亜細亜ノ蛾 - Weblog">Photoshop の「スクリプト」で PSD ファイルを TIFF に圧縮保存する : 亜細亜ノ蛾 - Weblog</a>
